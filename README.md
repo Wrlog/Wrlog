@@ -14,10 +14,10 @@ that touches patient data stays private.
 #### Projects
 
 - [nonmem-model-library](https://github.com/Wrlog/nonmem-model-library): NONMEM control streams for five common model types, each fitted to simulated data and checked against the model it has to beat ([dashboard](https://wrlog.github.io/nonmem-model-library/))
-- [mipd-bayesian-forecasting](https://github.com/Wrlog/mipd-bayesian-forecasting): MAP Bayesian PK/PD forecasting and dose recommendation from sparse TDM data, with a browser app
-- [rl-dosing-demo](https://github.com/Wrlog/rl-dosing-demo): deep Q-learning for dose and interval choices on a simulated PK/PD patient, compared with a Bayesian MAP comparator
-- [remission-prediction-shap](https://github.com/Wrlog/remission-prediction-shap): predicting long-term response from early data with a feature-group ladder, nested CV and SHAP
-- [latent-ode](https://github.com/Wrlog/latent-ode): a latent neural ODE for PK, benchmarked against popPK MAP where the true model is known
+- [mipd-bayesian-forecasting](https://github.com/Wrlog/mipd-bayesian-forecasting): MAP Bayesian PK/PD forecasting and dose recommendation from sparse TDM data ([dashboard](https://wrlog.github.io/mipd-bayesian-forecasting/), [app](https://wrlog.github.io/mipd-bayesian-forecasting/app/))
+- [rl-dosing-demo](https://github.com/Wrlog/rl-dosing-demo): deep Q-learning for dose and interval choices on a simulated PK/PD patient, compared with a Bayesian MAP comparator ([dashboard](https://wrlog.github.io/rl-dosing-demo/))
+- [remission-prediction-shap](https://github.com/Wrlog/remission-prediction-shap): predicting long-term response from early data with a feature-group ladder, nested CV and SHAP ([dashboard](https://wrlog.github.io/remission-prediction-shap/))
+- [latent-ode](https://github.com/Wrlog/latent-ode): a latent neural ODE for PK, benchmarked against popPK MAP where the true model is known ([dashboard](https://wrlog.github.io/latent-ode/))
 - [dosing-simulator](https://github.com/Wrlog/dosing-simulator): a Shiny app for IV dosing regimens on a two-compartment population PK model ([run it in the browser](https://wrlog.github.io/dosing-simulator/))
 - [metabolomics-dashboard-demo](https://github.com/Wrlog/metabolomics-dashboard-demo): an untargeted metabolomics analysis rendered as one offline HTML report
 - [ml-clinical-pharmacology](https://github.com/Wrlog/ml-clinical-pharmacology): clustering and SSRI remission prediction in R with tidymodels
