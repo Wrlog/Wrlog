@@ -2,9 +2,7 @@
 
 I'm a PhD candidate in pharmacology at the University of Cincinnati, based in
 the Division of Translational and Clinical Pharmacology at Cincinnati
-Children's. I work on population PK/PD modeling and model-informed precision
-dosing for children, mostly biologics in pediatric IBD, and more recently on
-untargeted metabolomics and wearable data.
+Children's. 
 
 Most of what I use day to day is NONMEM, R and Python. I also rebuild published
 PBPK and systems pharmacology models from their papers and put them online as
