@@ -26,6 +26,5 @@ that touches patient data stays private.
 - [ml-clinical-pharmacology](https://github.com/Wrlog/ml-clinical-pharmacology): clustering and SSRI remission prediction in R with tidymodels
 - [litsearch](https://github.com/Wrlog/litsearch): a reproducible literature screen from one YAML file, with a PRISMA diagram and BibTeX
 
-More about my work and publications: [wrlog.github.io](https://wrlog.github.io) ·
 [Google Scholar](https://scholar.google.com/citations?user=ZJU1efMAAAAJ) ·
 [LinkedIn](https://www.linkedin.com/in/wenrui97/)
